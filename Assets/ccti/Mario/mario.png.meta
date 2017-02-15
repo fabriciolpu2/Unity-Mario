@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7518a26975e1e014aa6a2d6bf2ef88b4
-timeCreated: 1487099744
+timeCreated: 1487108540
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -17,7 +17,7 @@ TextureImporter:
     21300020: mario_10
     21300022: mario_11
     21300024: mario_12
-    21300026: mario_13
+    21300026: saltar
     21300028: mario_14
     21300030: mario_15
     21300032: mario_16
@@ -404,7 +404,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: mario_13
+      name: saltar
       rect:
         serializedVersion: 2
         x: 208
